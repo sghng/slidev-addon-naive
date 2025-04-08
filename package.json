@@ -47,20 +47,20 @@
     "naive-ui": "^2.41.0"
   },
   "devDependencies": {
-    "@eslint/js": "^9.20.0",
-    "@slidev/cli": "^51.1.1",
+    "@eslint/js": "^9.24.0",
+    "@slidev/cli": "^51.5.0",
     "@slidev/theme-default": "^0.25.0",
-    "@slidev/types": "^51.1.1",
+    "@slidev/types": "^51.5.0",
     "@trivago/prettier-plugin-sort-imports": "^5.2.2",
-    "cspell": "^8.17.5",
-    "eslint": "^9.20.1",
+    "cspell": "^8.18.1",
+    "eslint": "^9.24.0",
     "eslint-plugin-vue": "^10.0.0",
     "globals": "^16.0.0",
-    "prettier": "^3.5.1",
+    "prettier": "^3.5.3",
     "prettier-plugin-sh": "^0.17.0",
     "prettier-plugin-slidev": "^1.0.5",
-    "typescript-eslint": "^8.24.0",
-    "vitest": "^3.0.6"
+    "typescript-eslint": "^8.29.1",
+    "vitest": "^3.1.1"
   },
   "peerDependencies": {
     "@slidev/types": "*"
