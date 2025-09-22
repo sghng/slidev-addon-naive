@@ -48,7 +48,7 @@
   },
   "devDependencies": {
     "@eslint/js": "^9.24.0",
-    "@slidev/cli": "^51.5.0",
+    "@slidev/cli": "^52.2.4",
     "@slidev/theme-default": "^0.25.0",
     "@slidev/types": "^51.5.0",
     "@trivago/prettier-plugin-sort-imports": "^5.2.2",
