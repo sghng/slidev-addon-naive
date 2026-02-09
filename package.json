@@ -47,7 +47,7 @@
     "naive-ui": "^2.41.0"
   },
   "devDependencies": {
-    "@eslint/js": "^9.24.0",
+    "@eslint/js": "^10.0.1",
     "@slidev/cli": "^52.2.5",
     "@slidev/theme-default": "^0.25.0",
     "@slidev/types": "^52.2.5",
