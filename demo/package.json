@@ -12,6 +12,6 @@
     "slidev-addon-naive": "file:.."
   },
   "devDependencies": {
-    "rollup-plugin-visualizer": "^6.0.3"
+    "rollup-plugin-visualizer": "^7.0.0"
   }
 }
